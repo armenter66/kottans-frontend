@@ -6,3 +6,4 @@
 
 ## Git Collaboration 
 ![GIT Branching](https://github.com/armenter66/kottans-frontend/blob/main/task_git_collaboration/2.png)
+![GIT Branching](https://github.com/armenter66/kottans-frontend/blob/main/task_git_collaboration/git2.png)
