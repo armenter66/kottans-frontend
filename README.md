@@ -7,3 +7,7 @@
 ## Git Collaboration 
 ![GIT Branching](https://github.com/armenter66/kottans-frontend/blob/main/task_git_collaboration/2.png)
 ![GIT Branching](https://github.com/armenter66/kottans-frontend/blob/main/task_git_collaboration/git2.png)
+
+## Intro to HTML and CSS
+![CSS and HTML](https://github.com/armenter66/kottans-frontend/blob/main/task_html_css_intro/css2.png)
+![CSS and HTML](https://github.com/armenter66/kottans-frontend/blob/main/task_html_css_intro/html.png)
