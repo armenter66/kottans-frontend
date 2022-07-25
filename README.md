@@ -11,3 +11,7 @@
 ## Intro to HTML and CSS
 ![CSS and HTML](https://github.com/armenter66/kottans-frontend/blob/main/task_html_css_intro/css2.png)
 ![CSS and HTML](https://github.com/armenter66/kottans-frontend/blob/main/task_html_css_intro/html.png)
+
+## Responsive Web Design
+![FLEX](https://github.com/armenter66/kottans-frontend/blob/main/task_responsive_web_design/flex.png)
+![GRID](https://github.com/armenter66/kottans-frontend/blob/main/task_responsive_web_design/grid.png)
