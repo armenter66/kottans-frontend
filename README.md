@@ -15,3 +15,7 @@
 ## Responsive Web Design
 ![FLEX](https://github.com/armenter66/kottans-frontend/blob/main/task_responsive_web_design/flex.png)
 ![GRID](https://github.com/armenter66/kottans-frontend/blob/main/task_responsive_web_design/grid.png)
+
+## HTML & CSS Practice
+(https://armenter66.github.io/dropPopUp/)
+code - (https://github.com/armenter66/dropPopUp)
