@@ -17,5 +17,5 @@
 ![GRID](https://github.com/armenter66/kottans-frontend/blob/main/task_responsive_web_design/grid.png)
 
 ## HTML & CSS Practice
-(https://armenter66.github.io/dropPopUp/)
-code - (https://github.com/armenter66/dropPopUp)
+[Live](https://armenter66.github.io/dropPopUp/)
+[Code](https://github.com/armenter66/dropPopUp)
